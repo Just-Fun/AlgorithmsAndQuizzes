@@ -40,8 +40,8 @@ public class Main {
         //№5
         /*int a = 10;
         int b = 100;
-        int temp = a/b;
-        System.out.println(temp); // 0
+        int question_9 = a/b;
+        System.out.println(question_9); // 0
         double c = (double) (a/b);
         String str = String.format("%1.4f", c);
         System.out.println(str); // 0.0000

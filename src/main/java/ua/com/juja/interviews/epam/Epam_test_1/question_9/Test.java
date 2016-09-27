@@ -1,4 +1,4 @@
-package ua.com.juja.interviews.epam.Epam_test_1;
+package ua.com.juja.interviews.epam.Epam_test_1.question_9;
 
 /**
  * Created by serzh on 3/30/16.
