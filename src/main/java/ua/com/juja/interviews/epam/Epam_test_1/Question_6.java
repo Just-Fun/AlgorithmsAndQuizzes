@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 //Программа выведет на экран содержимое файла -> !!!
 //Произойдет ошибка компиляции
 //Произойдет ошибка выполнения
-public class question_6 {
+public class Question_6 {
     public static void main(String[] args) {
         try {
             BufferedReader br = new BufferedReader(new InputStreamReader(

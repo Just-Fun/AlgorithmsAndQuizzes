@@ -7,7 +7,7 @@ package ua.com.juja.interviews.epam.Epam_test_1;
 //b)  Произойдет зацикливание программы
 //c)  На экран выведется число -128
 //d)  На экран выведется число 127
-public class question_2 {
+public class Question_2 {
 
     public static void main(String[] args) {
         byte b = 0;

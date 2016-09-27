@@ -17,7 +17,7 @@ c) for(int i[] : arr) {
 d) for(int i : arr) {
         for(int j : i) System.out.print(j + " ");
         System.out.println(); }*/
-public class question_10 {
+public class Question_10 {
     public static void main(String[] args) {
         int[][] arr = {{1, 2, 3}, {0, 0, 0}, {3, 2, 1}};
     }

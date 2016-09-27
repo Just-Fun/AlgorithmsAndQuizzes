@@ -6,7 +6,7 @@ package ua.com.juja.interviews.epam.Epam_test_1;
 //a) True
 //b) False
 //c) Ошибка компиляции
-public class question_1 {
+public class Question_1 {
 
     public static void main(String[] args) {
 

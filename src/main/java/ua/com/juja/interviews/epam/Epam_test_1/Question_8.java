@@ -9,7 +9,7 @@ package ua.com.juja.interviews.epam.Epam_test_1;
 //s = Long.toString(l);  -> !!!
 //s = l.toString();
 //s = Long.parse(l);
-public class question_8 {
+public class Question_8 {
     public static void main(String[] args) {
         long l = 100;
         String s = "" + l;
