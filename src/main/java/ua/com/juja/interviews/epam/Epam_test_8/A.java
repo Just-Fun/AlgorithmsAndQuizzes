@@ -5,7 +5,7 @@ package ua.com.juja.interviews.epam.Epam_test_8;
  */
 public class A {
     public void process() {
-        System.out.println("A ");
+        System.out.println("a1 ");
     }
 }
 class B extends A {

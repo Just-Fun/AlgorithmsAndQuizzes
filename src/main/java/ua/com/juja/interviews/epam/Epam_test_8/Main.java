@@ -18,7 +18,7 @@ public class Main {
 */
         //#3
         /*try {
-            ((A) new B()).process();// вывод A/n Exception, то-есть не приводиться что ли?
+            ((a1) new B()).process();// вывод a1/n Exception, то-есть не приводиться что ли?
         } catch (Exception e) {
             System.out.println("Exception ");
         }*/

@@ -7,7 +7,7 @@ public class HanoiPodrobno {
     static int countPlay = 0;
 
     public static void main(String[] args) {
-        playHanoi(3, "A", "B", "C");
+        playHanoi(3, "a1", "B", "C");
     }
 
     //move n disks from position "from" to "to" via "other"

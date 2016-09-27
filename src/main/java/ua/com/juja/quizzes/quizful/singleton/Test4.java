@@ -9,7 +9,8 @@ public class Test4 {
     public void method() {
         Singleton.getInstance();
     }
-    public static void main(String [] str) {
+
+    public static void main(String[] str) {
         new Test();
     }
     /*Ничего не будет выведено. 6534 / 12469

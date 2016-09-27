@@ -15,6 +15,6 @@ public class App {
         long t1 = System.nanoTime();
         InsertionSorter.sort(array);
 //        InsertionSorterPlusBinarySeach.sort(array);
-        System.out.println("A:" + (System.nanoTime() - t1) / 1_000_000);
+        System.out.println("a1:" + (System.nanoTime() - t1) / 1_000_000);
     }
 }

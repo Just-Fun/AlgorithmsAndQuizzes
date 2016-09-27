@@ -6,7 +6,7 @@ package ua.com.juja.algorithms.LAB17_Hanoi;
 public class Hanoi {
 
     public static void main(String[] args) {
-        playHanoi(4, "A", "B", "C");
+        playHanoi(4, "a1", "B", "C");
     }
 
     //move n disks from position "from" to "to" via "other"

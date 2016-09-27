@@ -5,7 +5,7 @@ package ua.com.juja.interviews.epam.Epam_test_6;
  */
 public class A {
     public void process() {
-        System.out.println("A,");
+        System.out.println("a1,");
     }
 
     public static void main(String[] args) {

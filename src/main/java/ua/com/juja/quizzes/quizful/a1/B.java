@@ -1,4 +1,4 @@
-package ua.com.juja.quizzes.quizful.A;
+package ua.com.juja.quizzes.quizful.a1;
 
 /**
  * Created by Serzh on 9/26/16.
@@ -14,7 +14,7 @@ public class B extends A {
         try {
             ((A) new B()).process();
         } catch (Exception e) {
-            System.out.print("Exception "); //A Exception
+            System.out.print("Exception "); //a1 Exception
         }
     }
     /*Пояснение: Хотя при переопределении метода нельзя добавлять исключение,

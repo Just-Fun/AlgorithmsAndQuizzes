@@ -8,7 +8,7 @@ public class B extends A {
     /*@Override
     public void process() throws IOException { // ошибка компиляции
         // Error:(10, 17) java: process() in B cannot override process()
-        // in A
+        // in a1
         //overridden method does not throw java.io.IOException
         super.process();
         System.out.println("B,");

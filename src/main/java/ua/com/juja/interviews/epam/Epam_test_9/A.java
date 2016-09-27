@@ -11,7 +11,7 @@ public class A {
     }
 
     public static void main(String[] args) {
-//        A[] a = new B[]{new B(), new C()}; // new C() - не комплится
+//        a1[] a = new B[]{new B(), new C()}; // new C() - не комплится
         // non-static variable this cannot be referenced from a static context
         // сделаем C static:
         D d = new D();
@@ -44,7 +44,7 @@ public class A {
         }
     }
 
-    /*class C extends A.B {
+    /*class C extends a1.B {
         public String runNow() {
             return "Out";
         }
